@@ -39,7 +39,7 @@ if (!localStorage.getItem("name")) {
   setUserName();
 } else {
   const storedName = localStorage.getItem("name");
-  myHeading.textContent = `Doggos are cool, ${storedName}`;
+  myHeading.textContent = `Doggos R cool, ${storedName}`;
 }
 
 myButton.addEventListener("click", () => {
