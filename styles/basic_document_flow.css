@@ -1,0 +1,23 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+p {
+  background: rgb(255 84 104 / 30%);
+  border: 2px solid rgb(255 84 104);
+  padding: 20px;
+  margin: 10px;
+}
+
+span {
+  /* background: green;
+  border: 1px solid black; */
+  font-size: large;
+  color: rgb(140, 127, 255);
+}
+
+h1{
+    text-align: center;
+    text-shadow: #ffcc00 1px 0 10px;
+}

@@ -1,0 +1,55 @@
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "Roboto", sans-serif;
+  /* color: red; */
+  background-color: #ece2e2;
+}
+
+body {
+  /* width: 1000px; */
+  margin: 0 auto;
+  background-color: #ede9df;
+  padding: 0 20px 20px 20px;
+  /* border: 2px solid rgba(73, 72, 72, 0.444); */
+}
+
+/* li {
+    background-color: rgb(67 100 45);
+    margin-bottom: 10px;
+    border: 25px solid #449bff;
+    color: #000000;
+} */
+.container {
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 20px;
+      border: 50px outset #9e9c9c28;
+    }
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #ffffff;
+  text-shadow: 3px 3px 1px rgba(90, 89, 89, 0.869);
+  text-align: center;
+  font-size: 60px;
+  background-color:#4CAF50;
+  border-radius: 10px;
+  /* width: 1000px; */
+  
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  border-radius: 10px;
+}
+p,
+li {
+  font-size: 20px;
+  line-height: 1.5;
+  /* letter-spacing: 1px; */
+  text-align: justify;
+}
